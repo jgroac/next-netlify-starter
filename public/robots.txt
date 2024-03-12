@@ -4,5 +4,8 @@
 # User-agent: facebookexternalhit
 # Allow: /reviews/
 
+User-agent: facebookexternalhit
+Disallow: /articles/
+
 User-agent: *
 Disallow: /
